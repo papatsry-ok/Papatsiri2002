@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm on my way to Full-stack developer 👨‍💻</div>  
+### <div align="center">On my way to Full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on my Frontend project  
