@@ -1,5 +1,5 @@
 <div align="center">
-<img src=""D:\OneDrive\Documents\GitHub\name banner.png"" align="center" style="width: 100%" />
+<img src="images\banner.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -104,4 +104,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
