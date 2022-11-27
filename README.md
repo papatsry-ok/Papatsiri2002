@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images\banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/Papatsiri2002/Project-BookaQ/blob/main/image/banner.png" align="center" style="width: 100%" />
 </div>  
   
 
