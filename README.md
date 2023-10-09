@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">On my way to Full-stack developer 👨‍💻</div>  
+### <div align="center">On my way to Project manager 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on my Frontend project  
+- 🔭 I’m currently working on my full-stack project
   
 
-- 🌱 I’m currently learning new programming language and machine learning  
+- 🌱 I’m currently learning new programming language and business field
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Dessert, Restaurant, Rooftop Bars
   
 
-- ⚡ Fun fact: I'm obsessed with 🐍  
+- ⚡ Fun fact: I'm obsessed with ≽^•⩊•^≼
   
 
 <br/>  
