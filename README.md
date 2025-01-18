@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/Papatsiri2002/Project-BookaQ/blob/main/image/banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/papatsry-ok/Project-BookaQ/blob/main/image/banner.png" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">On my way to Project manager 👨‍💻</div>  
   
@@ -67,7 +67,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Papatsiri2002" target="_blank">
+<a href="https://github.com/papatsry-ok" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/papatsiri-apipaiboon" target="_blank">
@@ -89,12 +89,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Papatsiri2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=papatsry-ok&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Papatsiri2002&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=papatsry-ok&&style=flat-square" align="center" />
 </div>  
 
 <br />
